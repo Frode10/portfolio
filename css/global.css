@@ -51,6 +51,7 @@ nav .menu-container, .tech-container {
     display:flex;
     align-items: center;
     padding: 20px;
+    width:100%;
 }
 
 nav .nav-link {
