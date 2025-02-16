@@ -85,7 +85,7 @@ nav .hamburger-list-container .nav-link {
     }
 }
 
-@media (max-width:600px) {
+@media (max-width:768px) {
     nav .hamburger {
         display:block; /* Viser hamburger. Se nav hamburger display none */
         background-color: transparent;
