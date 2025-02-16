@@ -68,6 +68,7 @@ nav .nav-links {
 
 nav .nav-link {
     color: rgb(216,218,221);
+    font-size:x-large;
     text-decoration: none;
     padding:8px 12px;
     border-radius: 4px;
