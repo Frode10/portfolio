@@ -61,6 +61,10 @@ nav .menu-container {
     width:100%;
 }
 
+nav .nav-links {
+    width: 100%;
+}
+
 nav .nav-link {
     color: rgb(216,218,221);
     text-decoration: none;
