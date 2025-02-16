@@ -20,7 +20,7 @@ nav .logo {
 /* små bilder logo js html osv.. */
 nav .tech-container img {
     width: clamp(20px, 5vw, 40px);
-    margin:0 10px 0 0;
+    margin:0 5px 0 0;
 } 
 nav .nav-container {
     display: flex;
