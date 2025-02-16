@@ -13,9 +13,10 @@ nav {
 }
 
 nav .logo {
-    width: clamp(100px, 5vw, 300px);
+    width: clamp(200px, 15vw, 400px);
     margin: 0 10px 0 0;
 }
+
 
 /* små bilder logo js html osv.. */
 nav .tech-container img {
