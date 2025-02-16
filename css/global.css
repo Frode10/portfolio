@@ -8,12 +8,20 @@ body {
     background-color: rgb(41,43,53);
     font-family: Lato, Times, serif;
 }
+/* ----- text styles ---------- */
+
+h1 {
+    color:rgb(216,218,221);
+}
+
+/* --------------  her begynner nav ------------- */
+
 nav {
     background-color: rgb(55,72,95);
 }
 
 nav .logo-link {
-    display: inline-block; /* Sikrer at lenken tilpasser seg bildet */
+    display: inline-block; /* Sikrer at lenken tilpasser seg størrelsen bildet */
 }
 
 nav .logo {
