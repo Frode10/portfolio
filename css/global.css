@@ -33,8 +33,12 @@ nav .logo {
 
 /* små bilder logo js html osv.. */
 .tech-container{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
     min-width:270px;
     padding:10px;
+    height: 100%;
 }
 nav .tech-container img {
     width: clamp(20px, 5vw, 40px);
