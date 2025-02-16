@@ -46,8 +46,11 @@ nav h3 {
     letter-spacing:2px;
     margin: 0 30px 0 0;
 }
+.tech-container{
+    padding:20px;
+}
 
-nav .menu-container, .tech-container {
+nav .menu-container {
     display:flex;
     align-items: center;
     padding: 20px;
