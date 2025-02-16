@@ -58,9 +58,8 @@ nav .hamburger-list-container .nav-link {
     display:block; /* lager "liste" av menu linker */
 }
 
-.hamburger-list-container {
-    display:none; /* sikrer at hamburger ikke vises over 600px */
-}
+/* nav .hamburger-list-container {
+    display:none; /* sikrer at hamburger ikke vises over 600px  } */
 
 .hidden {
     display: none !important;
@@ -83,7 +82,5 @@ nav .hamburger-list-container .nav-link {
     .menu-container .nav-links {
         display: none;
     }
-    .hamburger-list-container {
-        display:none; /*  */
-    }
+
 }
