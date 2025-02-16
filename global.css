@@ -19,7 +19,7 @@ nav .logo {
 
 /* små bilder logo js html osv.. */
 nav .tech-container img {
-    height: width: clamp(20px, 5vw, 40px);
+    width: clamp(20px, 5vw, 40px);
     margin:0 10px 0 0;
 } 
 nav .nav-container {
