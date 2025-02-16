@@ -33,7 +33,6 @@ nav .logo {
 
 /* små bilder logo js html osv.. */
 .tech-container{
-    display: flex;
     padding:10px;
 }
 nav .tech-container img {
