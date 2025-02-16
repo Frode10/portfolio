@@ -12,6 +12,10 @@ nav {
     background-color: rgb(55,72,95);
 }
 
+nav .logo-link {
+    display: inline-block; /* Sikrer at lenken tilpasser seg bildet */
+}
+
 nav .logo {
     width: clamp(100px, 25vw, 300px);
     margin: 0 10px 0 0;
