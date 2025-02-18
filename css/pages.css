@@ -1,4 +1,12 @@
-main {
-    padding:2rem;
+section {
+    height:50vh;
+}
+
+.main-section {
+    padding:4rem;
     background-color: rgb(48, 51, 61);
+}
+
+h1 {
+    color:orange;
 }
