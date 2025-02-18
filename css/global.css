@@ -36,11 +36,12 @@ nav .logo {
     display: flex;
     flex-direction: row;
     align-items:center;
+    padding-right:1rem;
 }
 nav .tech-container img {
     width: clamp(30px, 5vw, 40px);
     height:auto;
-    margin:0 5x 0 0;
+    margin:0 5px 0 0;
 } 
 nav .nav-container {
     display: flex;
