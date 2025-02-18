@@ -86,9 +86,10 @@ nav .nav-link:hover {
 nav .hamburger {
    display:none; /* Se @media nav hamburger display block */
 }
-
+/* meny liste når klikket hamburger */
 nav .hamburger-list-container .nav-link {
     display:block; /* lager "liste" av menu linker */
+    padding:2rem;
 }
 
 /* nav .hamburger-list-container {
