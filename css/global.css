@@ -89,7 +89,7 @@ nav .hamburger {
 /* meny liste når klikket hamburger */
 nav .hamburger-list-container .nav-link {
     display:block; /* lager "liste" av menu linker */
-    padding:2rem;
+    padding:1rem 0 1rem 2rem; 
 }
 
 /* nav .hamburger-list-container {
